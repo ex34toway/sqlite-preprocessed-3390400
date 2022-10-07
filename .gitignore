@@ -1,0 +1,14 @@
+# editor
+.vscode/
+.vs/
+
+# build objects
+*.o
+*.dll
+*.exe
+bin/
+
+# build
+CMakeSettings.json
+build/
+out/
